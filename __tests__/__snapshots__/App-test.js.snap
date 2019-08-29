@@ -12,7 +12,7 @@ exports[`renders correctly 1`] = `
   }
 >
   <Text>
-    Open up App.js to start working on your app!
+    Hello!☀️
   </Text>
 </View>
 `;
